@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+Support/Settings/config.json
+Original_Data/
+Support/libraries/
+Support/Generated/Staging/
+Support/ETL_Run.log
+Live_Demo_Logs/
