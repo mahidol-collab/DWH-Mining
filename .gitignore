@@ -7,3 +7,14 @@ Support/libraries/
 Support/Generated/Staging/
 Support/ETL_Run.log
 Live_Demo_Logs/
+/.vscode
+Python/.env
+.env
+**/.env
+Python/switrs.sqlite
+Support/Generated/Checks/source_profile.json
+Support/Generated/Checks/python_source_manifest.json
+scratch_test.py
+Support/Generated/Checks/Coverage_By_Year.csv
+Support/Generated/Checks/python_run.json
+/Support
