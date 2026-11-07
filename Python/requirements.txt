@@ -1,5 +1,5 @@
-numpy==2.0.0
-pandas==2.2.0
-scipy==1.15.0
+numpy
+pandas
+scipy
 psycopg[binary]==3.3.6
 python-dotenv
