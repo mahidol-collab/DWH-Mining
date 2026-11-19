@@ -3,3 +3,6 @@ pandas
 scipy
 psycopg[binary]==3.3.6
 python-dotenv
+scikit-learn
+matplotlib
+SQLAlchemy
