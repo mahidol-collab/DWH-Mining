@@ -6,3 +6,11 @@ python-dotenv
 scikit-learn
 matplotlib
 SQLAlchemy
+<<<<<<< Updated upstream
+=======
+seaborn
+folium
+pyarrow
+xgboost
+ipykernel
+>>>>>>> Stashed changes
